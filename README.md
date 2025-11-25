@@ -1,52 +1,52 @@
-🧮 Web Calculator — Projeto Completo com Histórico e Tema Dark/Light
+🧮 Web Calculator — Complete Project with History and Dark/Light Theme
 
-Este é um projeto de calculadora web moderna, desenvolvida em HTML, CSS e JavaScript, com foco em design, usabilidade e organização do código.
-A calculadora inclui operações básicas, interface limpa e recursos adicionais que melhoram a experiência do usuário.
+This is a modern web calculator project developed using HTML, CSS, and JavaScript, focusing on design, usability, and clean code structure.
+The calculator includes basic operations, a clean interface, and additional features that enhance the user experience.
 
-✨ Funcionalidades
-🔢 Calculadora Completa
+✨ Features
+🔢 Full Calculator
 
-Operações matemáticas básicas: soma, subtração, multiplicação e divisão
+Basic math operations: addition, subtraction, multiplication, and division
 
-Botões de AC, ponto, inversão de sinal e porcentagem
+AC, decimal point, sign inversion, and percentage buttons
 
-Display responsivo que atualiza em tempo real
+Responsive display that updates in real time
 
-📘 Histórico de Cálculos
+📘 Calculation History
 
-Painel lateral animado com todos os cálculos realizados
+Animated side panel showing all performed calculations
 
-Botão para limpar o histórico
+Button to clear the entire history
 
-Animação suave ao abrir e fechar
+Smooth open/close animation
 
-Comportamento especial: quando fechado, o painel desloca-se para trás da calculadora, deixando apenas uma “ficha” lateral visível para abrir novamente
+Special behavior: when closed, the panel moves behind the calculator, leaving only a small side “tab” visible for reopening
 
-🌙 Tema Dark/Light
+🌙 Dark/Light Theme
 
-Alternância de tema com um único clique
+One-click theme switching
 
-Armazena o tema escolhido (opcional, caso use localStorage)
+Optionally stores the selected theme using localStorage
 
-Ícone animado que muda conforme o tema
+Animated icon that changes based on the current theme
 
-📱 Design Responsivo
+📱 Responsive Design
 
-Layout adaptado para desktop e dispositivos móveis
+Layout adapted for both desktop and mobile devices
 
-Teclado e tela ajustados para diferentes tamanhos de tela
+Keyboard and display adjust to different screen sizes
 
-Painel lateral comporta-se corretamente no mobile e no desktop
+Side panel behaves correctly on both mobile and desktop
 
-🎨 Animações e UX
+🎨 Animations & UX
 
-Painel com transição suave
+Smooth transitions for the side panel
 
-Botões com efeitos ao clicar
+Button click effects
 
-Interface organizada e agradável de usar
+Clean, organized, and pleasant interface
 
-🛠 Tecnologias utilizadas
+🛠 Technologies Used
 
 HTML5
 
@@ -54,25 +54,26 @@ CSS3
 
 JavaScript (ES6)
 
-📌 Objetivo do Projeto
+📌 Project Purpose
 
-O objetivo deste projeto foi estudar e praticar técnicas de front-end, como:
+The goal of this project was to study and practice front-end techniques such as:
 
-manipulação do DOM
+DOM manipulation
 
-transições e animações em CSS
+CSS transitions and animations
 
-responsividade
+Responsive design
 
-organização de layout
+Layout organization
 
-lógica de uma calculadora funcional
+Logic for a functional calculator
 
-implementação de componentes interativos (painel lateral, tema, etc.)
+Implementation of interactive components (side panel, theme switcher, etc.)
 
 🚀 Status
 
-Projeto concluído, mas sempre aberto para melhorias e novas funcionalidades.
+Project completed, but always open to improvements and new features.
+
 <img width="639" height="581" alt="image" src="https://github.com/user-attachments/assets/3fb0967d-0174-4e97-861c-36f1fb711125" />
 <img width="1145" height="555" alt="image" src="https://github.com/user-attachments/assets/4d79f2e7-dd05-4531-a06d-1161fbb429fa" />
 
