@@ -30,14 +30,6 @@ Optionally stores the selected theme using localStorage
 
 Animated icon that changes based on the current theme
 
-📱 Responsive Design
-
-Layout adapted for both desktop and mobile devices
-
-Keyboard and display adjust to different screen sizes
-
-Side panel behaves correctly on both mobile and desktop
-
 🎨 Animations & UX
 
 Smooth transitions for the side panel
@@ -61,8 +53,6 @@ The goal of this project was to study and practice front-end techniques such as:
 DOM manipulation
 
 CSS transitions and animations
-
-Responsive design
 
 Layout organization
 
